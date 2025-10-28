@@ -8,8 +8,6 @@ public class P2_main {
 
 		if (i > 10) {
 			b = true;
-		} else {
-			b = false;
 		}
 
 		System.out.println(b);
